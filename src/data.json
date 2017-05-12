@@ -1,0 +1,35 @@
+{
+    "displayAllSoccerDays" : [
+      {
+        "location": "Minneapolis",
+        "date": "2017-08-11",
+        "sunny": true,
+        "rainy": false
+      },
+      {
+        "location": "Rio",
+        "date": "2017-01-22",
+        "sunny": false,
+        "rainy": true
+      },
+      {
+        "location": "VA",
+        "date": "2017-05-02",
+        "sunny": false,
+        "rainy": true
+      },
+      {
+        "location": "New York",
+        "date": "2017-05-12",
+        "sunny": true,
+        "rainy": false
+      },
+
+      {
+        "location": "Mangaratiba",
+        "date": "2017-07-12",
+        "sunny": true,
+        "rainy": false
+      }
+  ]
+}
